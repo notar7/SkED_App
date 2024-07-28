@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419910410249",
+    "project_id": "sked-563ab",
+    "storage_bucket": "sked-563ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419910410249:android:6b43c0e35e96b43b8358d8",
+        "android_client_info": {
+          "package_name": "com.example.sked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419910410249-3t493ppfvnrcd97sfc600p92an8hkmig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaMOLSAYY4JWkfOub7BiBnKby7DSXKylo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419910410249-3t493ppfvnrcd97sfc600p92an8hkmig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
